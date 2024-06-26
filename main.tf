@@ -19,7 +19,7 @@ resource "aws_instance" "my_ec2" {
 }
 
 provider "github" {
-    token = "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"
+    token = "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"
 }
 
 resource "github_repository" "terraform" {
